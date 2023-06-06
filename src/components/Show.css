@@ -1,0 +1,14 @@
+.col-4 {
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+li {
+  color: black;
+  list-style-type: none;
+}
+b {
+  color: darkred;
+}
+button {
+  margin-top: 5px;
+}
